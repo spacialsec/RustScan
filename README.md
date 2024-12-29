@@ -15,7 +15,7 @@
 
 ![fast][speed-1]
 
-The Modern Port Scanner. **Find ports quickly (3 seconds at its fastest)**. Run scripts through our scripting engine (Python, Lua, Shell supported).
+The Modern, Blazing Fast Port Scanner. **Find ports quickly (3 seconds at its fastest)**. Run scripts through our scripting engine (Python, Lua, Shell supported).
 
 # 🛠️ Installation
 
